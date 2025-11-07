@@ -1,6 +1,6 @@
-# ITSM Agent
+# Agentic AI Assistant for ITSM
 
-This project implements an **intelligent ITSM assistant** using **LangGraph**, **LangChain**, **MCP**, **Redis**, **Guardrails** and **Streamlit**.
+This project implements an **ITSM assistant** using **LangGraph**, **LangChain**, **MCP**, **Redis**, **Guardrails** and **Streamlit**.
 
 It supports **hybrid workflows** with:
 - **Local tools** → session handling, memory, RAG knowledge retrieval
@@ -9,6 +9,10 @@ It supports **hybrid workflows** with:
 - **Persistence & Checkpointer Memory** → conversations survive restarts
 - **Guardrails** → restricts responses to ITSM-only queries, restrict all unusual QnA
 - **Redis** → user context (`sys_id`) and state management
+
+---
+## High Level Design
+<img width="1483" height="1029" alt="image" src="https://github.com/user-attachments/assets/2a1ecd9c-1c13-47b4-b4fa-e234f5273898" />
 
 ---
 
@@ -94,3 +98,4 @@ This ITSM agent combines multiple cutting-edge technologies:
 - **Streamlit Interface**: User-friendly chat experience
 
 - **Memory Persistence**: Conversations survive application restarts
+

@@ -1,4 +1,4 @@
-# Agentic AI Assistant for ITSM
+# ORBIT - Agentic AI ITSM Assistant
 
 This project implements an **ITSM assistant** using **LangGraph**, **LangChain**, **MCP**, **Redis**, **Guardrails** and **Streamlit**.
 
@@ -98,4 +98,5 @@ This ITSM agent combines multiple cutting-edge technologies:
 - **Streamlit Interface**: User-friendly chat experience
 
 - **Memory Persistence**: Conversations survive application restarts
+
 

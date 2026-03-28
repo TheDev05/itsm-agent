@@ -1,4 +1,6 @@
-# ORBIT - Agentic AI ITSM Assistant
+# Agentic AI ITSM Assistant
+
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/thedev05-itsm-agent-badge.png)](https://mseep.ai/app/thedev05-itsm-agent)
 
 This project implements an **ITSM assistant** using **LangGraph**, **LangChain**, **MCP**, **Redis**, **Guardrails** and **Streamlit**.
 

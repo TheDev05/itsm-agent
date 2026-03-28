@@ -1,6 +1,8 @@
 # Agentic AI ITSM Assistant
 
 [![MseeP.ai Security Assessment Badge](https://mseep.net/pr/thedev05-itsm-agent-badge.png)](https://mseep.ai/app/thedev05-itsm-agent)
+<br>
+[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/5a101c21-716f-4870-9a56-0680440ba6b6)
 
 This project implements an **ITSM assistant** using **LangGraph**, **LangChain**, **MCP**, **Redis**, **Guardrails** and **Streamlit**.
 
